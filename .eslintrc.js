@@ -6,6 +6,8 @@ module.exports = {
 		"indent": ["error", "tab"],
 		"no-tabs": ["error", {"allowIndentationTabs": true}],
 		"react/jsx-indent":["error", "tab"],
+		"react/jsx-indent-props":["error", "tab"],
+		"react/prop-types":["off"],
 		"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     },
 	"env": {
