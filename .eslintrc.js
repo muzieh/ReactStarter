@@ -9,6 +9,7 @@ module.exports = {
 		"react/jsx-indent-props":["error", "tab"],
 		"react/prop-types":["off"],
 		"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+		"arrow-parens": ["error", "as-needed"],
     },
 	"env": {
 		"browser": true,
