@@ -18,4 +18,14 @@ module.exports = {
 		"jest": true,
 		"commonjs": true,
 	},
+	"settings": {
+		"import/resolver": {
+			"node": {
+				"moduleDirectory": [
+					"node_modules",
+					"lib",
+				]
+			}
+		}
+	}
 };
