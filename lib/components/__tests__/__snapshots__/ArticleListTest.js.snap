@@ -19,7 +19,9 @@ Array [
           "fontWeight": "bold",
         }
       }
-    />
+    >
+      title1
+    </div>
     <div
       style={
         Object {
@@ -28,7 +30,7 @@ Array [
         }
       }
     >
-      Invalid Date
+      Mon Jul 11 2016
     </div>
     <div
       style={
@@ -45,7 +47,9 @@ Array [
           "paddingLeft": 20,
         }
       }
-    />
+    >
+      body 1
+    </div>
   </div>,
   <div
     style={
@@ -64,7 +68,9 @@ Array [
           "fontWeight": "bold",
         }
       }
-    />
+    >
+      title2
+    </div>
     <div
       style={
         Object {
@@ -73,7 +79,7 @@ Array [
         }
       }
     >
-      Invalid Date
+      Mon Jul 11 2016
     </div>
     <div
       style={
@@ -90,52 +96,9 @@ Array [
           "paddingLeft": 20,
         }
       }
-    />
-  </div>,
-  <div
-    style={
-      Object {
-        "borderBottomColor": "#aaa",
-        "borderBottomStyle": "solid",
-        "borderBottomWidth": 1,
-        "marginBottom": 10,
-        "paddingBottom": 10,
-      }
-    }
-  >
-    <div
-      style={
-        Object {
-          "fontWeight": "bold",
-        }
-      }
-    />
-    <div
-      style={
-        Object {
-          "color": "#888",
-          "fontSize": "0.85em",
-        }
-      }
     >
-      Invalid Date
+      body 2
     </div>
-    <div
-      style={
-        Object {
-          "padding": "10px 0",
-        }
-      }
-    >
-      <a />
-    </div>
-    <div
-      style={
-        Object {
-          "paddingLeft": 20,
-        }
-      }
-    />
   </div>,
 ]
 `;
