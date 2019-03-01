@@ -42,6 +42,8 @@
     "babel-loader": "^8.0.5",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
+    "lodash.debounce": "^4.0.8",
+    "lodash.pickby": "^4.6.0",
     "path": "^0.12.7",
     "prop-types": "^15.7.1",
     "react": "^16.8.1",
