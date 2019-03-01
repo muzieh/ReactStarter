@@ -1,3 +1,28 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ArticleList renders correctly 1`] = `ShallowWrapper {}`;
+exports[`ArticleList renders correctly 1`] = `
+Array [
+  <Article
+    article={
+      Object {
+        "body": "body 1",
+        "date": "Mon Jul 11 2016 00:00:00 GMT+0000 (UTC)",
+        "id": "a",
+        "title": "title1",
+      }
+    }
+    key="a"
+  />,
+  <Article
+    article={
+      Object {
+        "body": "body 2",
+        "date": "Mon Jul 11 2016 00:00:00 GMT+0000 (UTC)",
+        "id": "b",
+        "title": "title2",
+      }
+    }
+    key="b"
+  />,
+]
+`;
